@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Data Engineer/Analyst at Transporte Cacharito Srl (Temp Project - Remote)**
 
-- 🌱 I’m currently learning **Data Science on a Bootcamp in Henry**
+- 🌱 I’m currently learning **Data Science on a Bootcamp in Soy Henry**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-brianmasat.netlify.app/](https://portfolio-brianmasat.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **brian_masat@hotmail.com**
 
-- 📄 Know about my experiences [https://portfolio-brianmasat.netlify.app/ResumeBrianEmilianoMasat.pdf](https://portfolio-brianmasat.netlify.app/ResumeBrianEmilianoMasat.pdf)
+- 📄 Know about my projects [https://portfolio-brianmasat.netlify.app/ResumeBrianEmilianoMasat.pdf](https://portfolio-brianmasat.netlify.app/ResumeBrianEmilianoMasat.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
