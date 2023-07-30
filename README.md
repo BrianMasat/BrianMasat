@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **brian_masat@hotmail.com**
 
-- 📄 Know about my projects [https://portfolio-brianmasat.netlify.app/ResumeBrianEmilianoMasat.pdf](https://portfolio-brianmasat.netlify.app/ResumeBrianEmilianoMasat.pdf)
+- 📄 Know about my projects [ResumeBrianEmilianoMasat.pdf](https://portfolio-brianmasat.netlify.app/archivos/ResumeBrianEmilianoMasat.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
