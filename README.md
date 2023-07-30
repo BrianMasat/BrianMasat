@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Emiliano Masat</h1>
 <h3 align="center">a proactive and analytical-minded data scientist with a passion for leveraging data to drive actionable insights.</h3>
 
-- 🔭 I’m currently working Remotely on **Transporte Cacharito Srl in a Temp-Project as a Jr Data Engineer/Analyst**
+- 🔭 I’m currently working as a **Data Engineer/Analyst at Transporte Cacharito Srl (Temp Project - Remote)**
 
 - 🌱 I’m currently learning **Data Science on a Bootcamp in Henry**
 
