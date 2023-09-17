@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Brian Emiliano Masat</h1>
-<h3 align="center">a proactive and analytical-minded data scientist with a passion for leveraging data to drive actionable insights.</h3>
+<h3 align="center">a proactive and analytical-minded data engineer with a passion for leveraging data to drive actionable insights.</h3>
 
-- 🔭 I’m currently working as a **Data Engineer/Analyst at Transporte Cacharito Srl (Temp Project - Remote)**
+- 🔭 I’m a **Data Engineer passionate about Machine Learning and Airline Industry**
 
-- 🌱 I’m currently learning **Data Science on a Bootcamp in Soy Henry**
+- 🌱 Data Science Bootcamp at Henry**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-brianmasat.netlify.app/](https://portfolio-brianmasat.netlify.app/)
 
-- 💬 Ask me about **Python, SQL-MySQL, PowerBI, Tableau,Excel and more**
+- 💬 Ask me about **Python, SQL, MySQL, AWS, Spark, Docker, Power BI, Machine Learning and more**
 
 - 📫 How to reach me **brian_masat@hotmail.com**
 
-- 📄 Know about my projects [ResumeBrianEmilianoMasat.pdf](https://portfolio-brianmasat.netlify.app/archivos/ResumeBrianEmilianoMasat.pdf)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianMasat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
