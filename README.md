@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-brianmasat.netlify.app/](https://portfolio-brianmasat.netlify.app/)
 
-- 💬 Ask me about **Python, SQL, MySQL, AWS, Spark, Docker, Power BI, Machine Learning and more**
+- 💬 Ask me about **Python, SQL, MySQL, AWS, Spark, Docker, Airflow, Power BI, Machine Learning and more**
 
 - 📫 How to reach me **brian_masat@hotmail.com**
 
