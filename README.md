@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Emiliano Masat</h1>
 <h3 align="center">a proactive and analytical-minded data scientist / engineer with a passion for leveraging data to drive actionable insights.</h3>
 
-- 🔭 I’m a **Data Engineer passionate about Machine Learning and Airline Industry**
+- 🔭 I’m a **Data Scientist / Engineer passionate about Machine Learning and Airline Industry**
 
 - 🌱 Data Scientist at Henry
 
