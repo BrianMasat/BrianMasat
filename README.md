@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian Emiliano Masat</h1>
-<h3 align="center">a proactive and analytical-minded data engineer with a passion for leveraging data to drive actionable insights.</h3>
+<h3 align="center">a proactive and analytical-minded data scientist / engineer with a passion for leveraging data to drive actionable insights.</h3>
 
 - 🔭 I’m a **Data Engineer passionate about Machine Learning and Airline Industry**
 
-- 🌱 Data Science Bootcamp at Henry
+- 🌱 Data Scientist at Henry
 
 - 👨‍💻 All of my projects are available at [https://portfolio-brianmasat.netlify.app/](https://portfolio-brianmasat.netlify.app/)
 
